@@ -15,7 +15,7 @@ My Bio
 - **Other Projects** – Exploring web development and programming through hands-on projects.
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn Profile URL](PASTE_YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [My Repositories](https://github.com/YOUR_USERNAME)
-
+- 💼 LinkedIn: (https://www.linkedin.com/in/pratyush-pritam-46330044b?utm_source=share_via&utm_content=profile&utm_medium=member_android)L)
+- 🐙 GitHub: [My Repositories]](https://github.com/pratyush-dev7?tab=repositories))
+- Instagram: https://www.instagram.com/praty_ush.py?cplk=MWo3Z3UwYWNjZHNxOQ%3D%3D
 *Always learning, building, and improving one step at a time!* 🚀
